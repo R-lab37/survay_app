@@ -1,0 +1,5 @@
+package com.example.survay_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
